@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    font: 15px monospace;
+    color: white;
+}
+
+#procurados {
+
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    column-count: 3;
+    column-gap: 2px;
+    font: 15px monospace;
+}
+
+#texto-procurados {
+    font: 15px monospace;
+    padding: 2px;
+}
+
+#ciclo-solar {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    column-count: 3;
+    column-gap: 2px;
+    font: 15px monospace
+}
+
+#texto-aleatorio {
+    padding: 10px;
+}
